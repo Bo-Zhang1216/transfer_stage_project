@@ -489,6 +489,19 @@ p, li { white-space: pre-wrap; }
      <string>0</string>
     </property>
    </widget>
+   <widget class="QPushButton" name="push_show_coords">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>550</y>
+      <width>113</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Coordinates</string>
+    </property>
+   </widget>
   </widget>
  </widget>
  <resources/>
